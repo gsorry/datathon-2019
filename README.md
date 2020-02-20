@@ -1,6 +1,6 @@
-# Raiffeisen Recommender System
+# Bank Recommender System
 
-Raiffeisen dataset is not a provided here because it is too big.
+Bank dataset is not a provided here because it is too big.
 Need to be extracted in this folder: 'Datathon_sample_final1.csv'
 
 ## Clean Data
